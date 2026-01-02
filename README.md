@@ -30,27 +30,12 @@ El proyecto fue creado como parte de un **tutorial en YouTube**, con una explica
 
 🔧 Maven
 
-📂 Estructura del Proyecto
-src
- └── main
-     └── java
-         └── com.ejemplo.crud
-             ├── controller
-             ├── service
-             ├── repository
-             └── model
 
-🔥 Endpoints de la API
-Método	Endpoint	Descripción
-POST	/personas	Crear una persona
-GET	/personas	Listar personas
-GET	/personas/{id}	Obtener persona por ID
-PUT	/personas/{id}	Actualizar persona
-DELETE	/personas/{id}	Eliminar persona
-▶️ Tutorial en YouTube
+
+
 
 📺 Mira el tutorial completo aquí:
-👉 https://www.youtube.com/tu-video
+👉 https://www.youtube.com/watch?v=rq7qco9uYK0&t=2107s
 
 En el video aprenderás:
 
@@ -68,13 +53,7 @@ Aplicar buenas prácticas en proyectos reales
 
 1️⃣ Clona el repositorio:
 
-git clone https://github.com/tu-usuario/crud-persona.git
-
-
-2️⃣ Ingresa al proyecto:
-
-cd crud-persona
-
+https://github.com/JesusCortezCr/crud-rest-springboot
 
 3️⃣ Ejecuta la aplicación:
 
@@ -88,7 +67,6 @@ http://localhost:8080
 🤝 Contribuciones
 
 Las contribuciones son bienvenidas 🙌
-Si tienes ideas de mejora o encuentras algún error, no dudes en abrir un issue o un pull request.
 
 ⭐ Apóyame
 
