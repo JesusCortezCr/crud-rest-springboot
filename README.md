@@ -1,6 +1,6 @@
 # 🚀 CRUD Básico con Spring Boot | Entidad Persona
 
-Este repositorio contiene un **CRUD completo (Create, Read, Update, Delete)** desarrollado con **Spring Boot**, utilizando **Spring Data JPA** y **Hibernate**, ideal para estudiantes y desarrolladores que están aprendiendo **Backend con Java**.
+Este repositorio contiene un **CRUD completo (Create, Read, Update, Delete)** desarrollado con **Spring Boot**, utilizando **Spring Data JPA** y **Hibernate** sobre una clase **Persona**, ideal para estudiantes y desarrolladores que están aprendiendo **Backend con Java**.
 
 El proyecto fue creado como parte de un **tutorial en YouTube**, con una explicación paso a paso, enfocada en buenas prácticas, código limpio y una arquitectura sencilla.
 
@@ -24,14 +24,11 @@ El proyecto fue creado como parte de un **tutorial en YouTube**, con una explica
 
 📦 Lombok
 
-🐬 MySQL / H2 Database
+🐬 MySQL 
 
-🧪 Postman / Thunder Client
+🧪 Postman
 
 🔧 Maven
-
-
-
 
 
 📺 Mira el tutorial completo aquí:
@@ -58,11 +55,6 @@ https://github.com/JesusCortezCr/crud-rest-springboot
 3️⃣ Ejecuta la aplicación:
 
 mvn spring-boot:run
-
-
-4️⃣ Accede a la API:
-
-http://localhost:8080
 
 🤝 Contribuciones
 
