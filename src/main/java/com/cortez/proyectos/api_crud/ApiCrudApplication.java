@@ -1,5 +1,7 @@
 package com.cortez.proyectos.api_crud;
 
+import java.util.Properties;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -8,6 +10,7 @@ public class ApiCrudApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiCrudApplication.class, args);
+		
 	}
 
 }
